@@ -1,0 +1,11 @@
+#train images
+http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+
+#train labels
+http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+
+#test images
+http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
+
+#test labels
+http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
